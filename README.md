@@ -13,3 +13,10 @@ From the pdf to the ris-file to the citation formated as you wish - This repo ai
 - pdf_to_ris
 - chain_references_to_string_list_qutotes_Angewandte_Chemie
 
+## Requires
+- PyPDF2
+- requests
+- clipboard
+- colorful_terminal (by me)
+- easy_tasks (by me)
+- exception_details (by me)
